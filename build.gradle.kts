@@ -1,5 +1,3 @@
-import org.gradle.launcher.Main
-
 java {
     toolchain {
         languageVersion.set(JavaLanguageVersion.of(17))
