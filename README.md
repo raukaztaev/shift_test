@@ -14,12 +14,12 @@ cd shift_test
 
 Сборка(Windows)
 ```bash
-gradle build
+gradlew build
 ```
 
 Сборка(Linux, macOS)
 ```bash
-./gradle build
+./gradlew build
 ```
 
 Пример запуска
